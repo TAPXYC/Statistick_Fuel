@@ -1,0 +1,240 @@
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\Statistick.exe.config
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\Statistick.exe
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\Statistick.pdb
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\App.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\MainWindow.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.g.resources
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.exe
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.pdb
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+F:\Statistick\Statistick\bin\Debug\Statistick.exe.config
+F:\Statistick\Statistick\bin\Debug\Statistick.exe
+F:\Statistick\Statistick\bin\Debug\Statistick.pdb
+F:\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+F:\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+F:\Statistick\Statistick\obj\Debug\App.g.cs
+F:\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+F:\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+F:\Statistick\Statistick\obj\Debug\MainWindow.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+F:\Statistick\Statistick\obj\Debug\Statistick.g.resources
+F:\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+F:\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+F:\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+F:\Statistick\Statistick\obj\Debug\Statistick.exe
+F:\Statistick\Statistick\obj\Debug\Statistick.pdb
+D:\Statistick\Statistick\bin\Debug\Statistick.exe.config
+D:\Statistick\Statistick\bin\Debug\Statistick.exe
+D:\Statistick\Statistick\bin\Debug\Statistick.pdb
+D:\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+D:\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+D:\Statistick\Statistick\obj\Debug\App.g.cs
+D:\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+D:\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+D:\Statistick\Statistick\obj\Debug\MainWindow.baml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+D:\Statistick\Statistick\obj\Debug\Statistick.g.resources
+D:\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+D:\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+D:\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+D:\Statistick\Statistick\obj\Debug\Statistick.exe
+D:\Statistick\Statistick\obj\Debug\Statistick.pdb
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\Statistick.exe.config
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\Statistick.exe
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\Statistick.pdb
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\App.g.cs
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\MainWindow.baml
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.g.resources
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.exe
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.pdb
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.g.cs
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.baml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\Statistick.exe.config
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\Statistick.exe
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\Statistick.pdb
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.g.cs
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\App.g.cs
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\MainWindow.baml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.baml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.g.resources
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.exe
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.pdb
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.dll
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.xml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\WorkDestructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+D:\Statistick\Statistick\bin\Debug\OxyPlot.dll
+D:\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+D:\Statistick\Statistick\bin\Debug\OxyPlot.xml
+D:\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+D:\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.dll
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.xml
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\Meta.Numerics.dll
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\Meta.Numerics.pdb
+C:\Users\Static Destructor\Desktop\Statistick\Statistick\bin\Debug\Meta.Numerics.xml
+E:\Statistick\Statistick\bin\Debug\Statistick.exe.config
+E:\Statistick\Statistick\bin\Debug\Statistick.exe
+E:\Statistick\Statistick\bin\Debug\Statistick.pdb
+E:\Statistick\Statistick\bin\Debug\Meta.Numerics.dll
+E:\Statistick\Statistick\bin\Debug\OxyPlot.dll
+E:\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+E:\Statistick\Statistick\bin\Debug\Meta.Numerics.pdb
+E:\Statistick\Statistick\bin\Debug\Meta.Numerics.xml
+E:\Statistick\Statistick\bin\Debug\OxyPlot.xml
+E:\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+E:\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+E:\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.g.cs
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+E:\Statistick\Statistick\obj\Debug\App.g.cs
+E:\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+E:\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+E:\Statistick\Statistick\obj\Debug\MainWindow.baml
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.baml
+E:\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+E:\Statistick\Statistick\obj\Debug\Statistick.g.resources
+E:\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+E:\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+E:\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+E:\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+E:\Statistick\Statistick\obj\Debug\Statistick.exe
+E:\Statistick\Statistick\obj\Debug\Statistick.pdb
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\Statistick.exe.config
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\Statistick.exe
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\Statistick.pdb
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.dll
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.xml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csprojAssemblyReference.cache
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\MainWindow.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\App.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.cache
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick_MarkupCompile.lref
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\MainWindow.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataAnalize.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\NormalizeDataViewer.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DataViewer.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.g.resources
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.Properties.Resources.resources
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csproj.GenerateResource.cache
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csproj.CoreCompileInputs.cache
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.exe
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.pdb
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\MathNet.Numerics.dll
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\bin\Debug\MathNet.Numerics.xml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\MathNet.Numerics.dll
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.dll
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\MathNet.Numerics.xml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.xml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+F:\Statistick\Statistick\bin\Debug\MathNet.Numerics.dll
+F:\Statistick\Statistick\bin\Debug\OxyPlot.dll
+F:\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.dll
+F:\Statistick\Statistick\bin\Debug\MathNet.Numerics.xml
+F:\Statistick\Statistick\bin\Debug\OxyPlot.xml
+F:\Statistick\Statistick\bin\Debug\OxyPlot.Wpf.xml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.g.cs
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.g.cs
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\IntervalAnalize.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.baml
+F:\Statistick\Statistick\obj\Debug\Statistick.csproj.CopyComplete
+D:\Statistick\Statistick\bin\Debug\MathNet.Numerics.dll
+D:\Statistick\Statistick\bin\Debug\MathNet.Numerics.xml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\LinearRegression.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DualCorrelation.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DualCorrelation.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DualCorrelation.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\DualCorrelation.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\App.baml
+D:\Statistick\Statistick\obj\Debug\App.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\App.baml
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.g.cs
+C:\Users\WorkDestructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.baml
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\MultipleRegressionAnalysis.g.cs
+C:\Users\Static Destructor\source\repos\Statistick\Statistick\obj\Debug\Resources\Pages\MultipleRegressionAnalysis.baml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\MultipleRegressionAnalysis.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\MultipleRegressionAnalysis.baml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\DualCorrelation.g.cs
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\MultipleRegressionAnalysis.g.cs
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.g.cs
+F:\Statistick\Statistick\obj\Debug\App.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\DualCorrelation.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\MultipleRegressionAnalysis.baml
+F:\Statistick\Statistick\obj\Debug\Resources\Pages\ParticalCorrelation.baml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\RegressionIntervalAnalize.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\RegressionIntervalAnalize.baml
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\CorrPleyad.g.cs
+D:\Statistick\Statistick\obj\Debug\Resources\Pages\CorrPleyad.baml

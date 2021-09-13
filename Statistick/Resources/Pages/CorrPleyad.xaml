@@ -1,0 +1,119 @@
+﻿<Page x:Class="Statistick.Resources.Pages.CorrPleyad"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Statistick.Resources.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Loaded="Page_Loaded"
+      Title="CorrPleyad">
+    
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <Canvas x:Name="cnvDual" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="400">
+
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="244" Canvas.Top="25" CornerRadius="60">
+                <TextBlock Text="X1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="315" Canvas.Top="116" CornerRadius="60">
+                <TextBlock Text="X2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="330" Canvas.Top="220" CornerRadius="60">
+                <TextBlock Text="X3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="266" Canvas.Top="305" CornerRadius="60">
+                <TextBlock Text="X4" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="157" Canvas.Top="323" CornerRadius="60">
+                <TextBlock Text="X5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="64" Canvas.Top="281" CornerRadius="60">
+                <TextBlock Text="X6" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="23" Canvas.Top="189" CornerRadius="60">
+                <TextBlock Text="X7" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="49" Canvas.Top="82" CornerRadius="60">
+                <TextBlock Text="X8" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="126" Canvas.Top="25" CornerRadius="60">
+                <TextBlock Text="Y" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <TextBlock Text="Парная корреляция" VerticalAlignment="Center" 
+                       HorizontalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold" Canvas.Left="126" Canvas.Top="-1"/>
+
+            <Canvas.Effect>
+                <DropShadowEffect BlurRadius="10" Direction="0" Color="White" ShadowDepth="0"/>
+            </Canvas.Effect>
+        </Canvas>
+        
+        
+        <Canvas x:Name="cnvParticle" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="400" Width="400">
+           
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="244" Canvas.Top="25" CornerRadius="60">
+                <TextBlock Text="X1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="315" Canvas.Top="116" CornerRadius="60">
+                <TextBlock Text="X2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="330" Canvas.Top="220" CornerRadius="60">
+                <TextBlock Text="X3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="266" Canvas.Top="305" CornerRadius="60">
+                <TextBlock Text="X4" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="157" Canvas.Top="323" CornerRadius="60">
+                <TextBlock Text="X5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="64" Canvas.Top="281" CornerRadius="60">
+                <TextBlock Text="X6" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="23" Canvas.Top="189" CornerRadius="60">
+                <TextBlock Text="X7" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="49" Canvas.Top="82" CornerRadius="60">
+                <TextBlock Text="X8" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border Panel.ZIndex="3" Background="White" Width="40" Height="40" Canvas.Left="126" Canvas.Top="25" CornerRadius="60">
+                <TextBlock Text="Y" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+
+            <TextBlock Text="Частная корреляция" VerticalAlignment="Center" 
+                       HorizontalAlignment="Center" FontSize="16" Foreground="White" FontWeight="Bold" Canvas.Left="126" Canvas.Top="-1"/>
+
+            <Canvas.Effect>
+                <DropShadowEffect BlurRadius="10" Direction="0" Color="White" ShadowDepth="0"/>
+            </Canvas.Effect>
+        </Canvas>
+
+        <Border Grid.Column="1" BorderThickness="3" BorderBrush="White" VerticalAlignment="Bottom" HorizontalAlignment="Right"
+                CornerRadius="10,0,0,0" >
+            <StackPanel Margin="10,10,20,0">
+                <TextBlock Text="Обозначения:" Foreground="White" FontSize="14"/>
+
+                <StackPanel Orientation="Horizontal" Margin="40,5,0,0">
+                    <Rectangle Fill="Cyan" Height="10" Width="10" Margin="0,0,10,0"/>
+                    <TextBlock Text="Сильная связь" Foreground="White" FontSize="10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="40,5,0,0">
+                    <Rectangle Fill="Yellow" Height="10" Width="10"  Margin="0,0,10,0"/>
+                    <TextBlock Text="Средняя связь" Foreground="White" FontSize="10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="40,5,0,0">
+                    <Rectangle Fill="Magenta" Height="10" Width="10" Margin="0,0,10,0"/>
+                    <TextBlock Text="Умеренная связь" Foreground="White" FontSize="10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="40,5,0,0">
+                    <Rectangle Fill="Gray" Height="10" Width="10" Margin="0,0,10,0"/>
+                    <TextBlock Text="Слабая связь" Foreground="White" FontSize="10"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
